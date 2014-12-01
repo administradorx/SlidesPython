@@ -4,11 +4,11 @@
 
 **Slides**
 
-[Visualisar slides online]()
+[Visualisar slides online](http://goo.gl/fjGIC3)
 
 ## Ferramentas necessárias para rodar os códigos no Windows:
 
-- **Windows**: [SimpleCVAutoInstall](goo.gl/eIjdSz) Este instalador instala todas as dependências de SimpleCV no Ruwindows
+- **Windows**: [SimpleCVAutoInstall](http://goo.gl/eIjdSz) Este instalador instala todas as dependências de SimpleCV no Ruwindows
 
 ## Instalando SimpleCV no Ubuntu:
 
