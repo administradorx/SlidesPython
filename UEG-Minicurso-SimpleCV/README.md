@@ -4,7 +4,7 @@
 
 **Slides**
 
-[Visualisar slides online](http://goo.gl/fjGIC3)
+[Visualisar slides online](http://goo.gl/wZOlXx)
 
 ## Ferramentas necessárias para rodar os códigos no Windows:
 
